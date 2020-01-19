@@ -1,2 +1,2 @@
-# Luke-Craig
-My repository
+# CSC5
+Winter 2020
